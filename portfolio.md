@@ -1,32 +1,31 @@
 **Student Name: Mohammed Nadeem
+
 Student ID: MOH22609030
+
 Lab: Security testing
+
 Date: Jan 25 2024**
 
-**Requirement 1 : Setup security testing environment**
-1. Deployed an OWASP Juice Shop server with the virtual machine specifications as below 
-Username: student
-Password:Student1
-IP Address: 192.168.123.55
-![image](https://github.com/engmdnadeem/Security-Testing/assets/152322481/7c00a0ee-c7f1-4382-a839-bacf6f4cff57)
-
-2. Deployed a Security Testing workstation with below specifications 
-Workstation: Kali
-Username:Kali
-Password:Kali
-IP Address: 192.168.123.5
-![image](https://github.com/engmdnadeem/Security-Testing/assets/152322481/6e4d5c61-8090-40b8-94d8-394bcd75d4e5)
+**Requirement 1 : Setup security testing environment****
+1. **Deployed an OWASP Juice Shop server with the virtual machine specifications as below**
+2. Username: student
+3. Password:Student1
+4. IP Address: 192.168.123.55
+5. ![image](https://github.com/engmdnadeem/Security-Testing/assets/152322481/7c00a0ee-c7f1-4382-a839-bacf6f4cff57)
+ 
+7. Deployed a Security Testing workstation with below specifications
+8. Workstation: Kali
+9. Username:Kali
+10. Password:Kali
+11. IP Address: 192.168.123.5
+12. ![image](https://github.com/engmdnadeem/Security-Testing/assets/152322481/6e4d5c61-8090-40b8-94d8-394bcd75d4e5)
 
 
 **Requirement 2 : OWASP Juice Shop Functionality Testing**
 1. What are the features and functions of the OWASP Juice Shop application?
-Open Web Application Security Project(OWASP) is a frontend application just like a food ordering website.
-It has many features such as:
-1. Menu
-2.Search Bar
-3.Account
-4.Language
-Some of the key functions of the OWASP Juice shop application are project development, educational purposes.
+2. Open Web Application Security Project(OWASP) is a frontend application just like a food ordering website.
+3. It has many features such as: Menu,Search Bar,Account,Language.
+4. Some of the key functions of the OWASP Juice shop application are project development, educational purposes.
 
 **Requirement 5. Exploit a Broken Access Control vulnerability.**
 
